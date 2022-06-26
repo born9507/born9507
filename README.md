@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![born9507's github stats](https://github-readme-stats.vercel.app/api?username=born9507&show_icons=true)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/born9507/hit-counter)](https://hits.seeyoufarm.com)                    
+
 <!--
 **born9507/born9507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
