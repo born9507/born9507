@@ -2,7 +2,7 @@
 
 [![Sangwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=born9507&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=born9507)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=born9507)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/born9507/hit-counter)](https://hits.seeyoufarm.com)                    
 
